@@ -27,7 +27,7 @@
 ## Setup & Installation
 ```bash
 # Clone the repo
-git clone https://github.com/Bayzid2/PlaywrightTask
+git clone https://github.com/Bayzid2/PlaywrightTask.git
 
 # Install dependencies
 npm install
